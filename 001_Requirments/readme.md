@@ -3,7 +3,26 @@
 ## Introduction
 It is a Data Set problem that will allow to users to retrive data from data set. However, the input has form of the city name. And output is  all car brand how many sold cars in that city and which year .
 
-## Research
+# Detail requirements
+## High Level Requirements:
+|**id**  |**Requirements**  | **Description**  |**Status**  |
+| --- | --- | --- | --- |
+|HL1 | Search data from sheet |Search all data from sheets when user gives the City Name to be searched.|IMPLEMENTED|
+|HL2 | write data into new Sheet  | Write all the data from different sheets in one Master Sheet|IMPLEMENTED |
+|HL3 |Extract data from sheets using given input|Write new required data in the excel file. |IMPLEMENTED |
+
+
+
+##  Low level Requirements:
+
+|**id**  |**Requirments**  | **Description**  |**Status**  |
+| --- | --- | --- | --- |
+|LL001 | Searching Data by user |The data to be searched is defined by the user.|Implemented |
+|LL002 | Search Parameters | The user defines the Name and PS Number of the data to be searched|IMPLEMENTED |
+|LL003 |extracting user defined data|Data defined by user has to be extracted from 5 different spreadsheets and put into one master sheet. |IMPLEMENTED |
+|LL004 |Printing extracted data|10 different data to be printed to the console.|IMPLEMENTED |
+
+
   
 ## SWOT ANALYSIS
 
@@ -28,15 +47,3 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 **TBD**
 
 ## How:
-
-**TBD**
-
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
-
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
