@@ -17,11 +17,8 @@ It is a Data Set problem that will allow to users to retrive data from data set.
 
 |**id**  |**Requirments**  | **Description**  |**Status**  |
 | --- | --- | --- | --- |
-|LL001 | Searching Data by user |The data to be searched is defined by the user.|Implemented |
-|LL002 | Search Parameters | The user defines the Name and PS Number of the data to be searched|IMPLEMENTED |
-|LL003 |extracting user defined data|Data defined by user has to be extracted from 5 different spreadsheets and put into one master sheet. |IMPLEMENTED |
-|LL004 |Printing extracted data|10 different data to be printed to the console.|IMPLEMENTED |
-
+|LL001 | Each Sheet Contains 10 Column and 40 Rows |Each Sheet showing 10X40 fromat|Implemented |
+|LL002 | Master Sheet Contains Created  | Master Sheet Contains 40X40 Format|IMPLEMENTED |
 
   
 ## SWOT ANALYSIS
